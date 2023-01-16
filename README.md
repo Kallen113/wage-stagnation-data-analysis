@@ -1,9 +1,9 @@
 # wage-stagnation-data-analysis
 Analysis of U.S. Wage Stagnation: Examining whether productivity, or college Degree, Training, or other requirements led to less wage stagnation since the 1980s. 
 
-As mentioned by numerous news articles, U.S. wages have largely stagnated (ie, in real terms & adjusted for inflation) over much of the period since the late 1970s or early 1980s. However, the extent of wage stagnation has varied by industry, as shown in this 2019 article: [Wage stagnation by Industry](https://www.liveabout.com/industries-with-the-most-wage-stagnation-4176877). 
+As mentioned by numerous news articles, U.S. wages have largely stagnated (ie, in real terms & adjusted for inflation) over much of the period since the late 1970s or early 1980s. However, the extent of wage stagnation has varied by industry, as shown in this 2019 article: [Wage stagnation by Industry](https://www.liveabout.com/industries-with-the-most-wage-stagnation-4176877). A more recent CNBC article, from July 2022, states that while wages grew by over 17% between 1979 and 2020, labor productivity grew at a much faster rate: [CNBC article](https://www.cnbc.com/2022/07/19/heres-how-labor-dynamism-affects-wage-growth-in-america.html).  Namely: productivity increased by greater than 60% over that same period. Consequently, labor producivity gains have not led to commensurate increases in wage growth. 
 
-Inb this repo, I will do some data analysis to examine differences in wage stagnation by specific occupations. 
+In this repo, I will do some data analysis to examine differences in wage stagnation by specific occupations. 
 
 In particular, I'd like to examine whether occupations that (at least tend to) require college degrees, apprenticeships, or other forms of medium or high skill training or expertise tended to have lower wage stagnation. 
 
